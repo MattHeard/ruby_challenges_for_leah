@@ -15,3 +15,11 @@ have more than 5 lines in them.
 There is a test script called `test.rb`. When this script is run on the
 command line with no arguments, it will tell you whether the current
 `sing` function prints the same output as it originally did.
+
+`test.rb` can be run either with
+
+    $ ruby test.rb
+
+or with
+
+    $ ./test.rb
