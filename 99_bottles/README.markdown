@@ -13,5 +13,5 @@ have more than 5 lines in them.
 ## Testing
 
 There is a test script called `test.rb`. When this script is run on the
-command line with no arguments, it will print the output of the `sing`
-function, and tell you whether it is identical to the original.
+command line with no arguments, it will tell you whether the current
+`sing` function prints the same output as it originally did.
